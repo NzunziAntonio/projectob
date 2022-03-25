@@ -1,3 +1,3 @@
 <?php
 
-echo "Cor Azul";
+echo "Cor Azul + Amarela";
